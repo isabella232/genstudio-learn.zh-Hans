@@ -2,7 +2,7 @@
 source-git-commit: 2b9678f7f2d11a464f40cd68984ac90a3b44c7dd
 workflow-type: tm+mt
 source-wordcount: '483'
-ht-degree: 0%
+ht-degree: 36%
 
 ---
 # 投稿文章
@@ -29,7 +29,7 @@ ht-degree: 0%
 1. 在“此内容是否有帮助？”中 浏览器窗口底部显示的横幅单击 **详细的反馈选项**.
 1. 单击 **建议编辑** 并在GitHub UI中提交拉取请求(PR)，以及您所做的更改。
 
-   有关更多信息，请参阅一般 [Adobe 文档投稿人指南](https://experienceleague.adobe.com/docs/contributor/contributor-guide/introduction.html)。
+   有关更多信息，请参阅一般 [Adobe 文档投稿人指南](https://experienceleague.adobe.com/docs/contributor/contributor-guide/introduction.html?lang=zh-Hans)。
 
 您为此存储库中的文档和代码示例提交的小幅度校正或说明受 Adobe 使用条款的约束。
 
@@ -43,7 +43,7 @@ ht-degree: 0%
 
 社区投稿人可以使用 GitHub UI 进行基本编辑或者分叉存储库以进行重大投稿。
 
-有关详细信息，请参阅 [Adobe 文档投稿人指南](https://experienceleague.adobe.com/docs/contributor/contributor-guide/introduction.html)。
+有关详细信息，请参阅 [Adobe 文档投稿人指南](https://experienceleague.adobe.com/docs/contributor/contributor-guide/introduction.html?lang=zh-Hans)。
 
 ## 内部参与者
 
@@ -53,12 +53,12 @@ ht-degree: 0%
 
 此存储库中的所有文章都使用GitHub风格的Markdown。 如果您不熟悉Markdown，请参阅：
 
-* [Markdown 基础知识](https://help.github.com/articles/getting-started-with-writing-and-formatting-on-github/)
-* [可打印的 Markdown 速查表](https://guides.github.com/pdfs/markdown-cheatsheet-online.pdf)
+* [标记基础知识](https://help.github.com/articles/getting-started-with-writing-and-formatting-on-github/)
+* [可打印标记备忘单](https://guides.github.com/pdfs/markdown-cheatsheet-online.pdf)
 
 ## 标签
 
 在公共存储库中，自动标签将分配到所有提取请求以帮助我们管理提取请求工作流，并有助于您了解您的提取请求发生了什么：
 
 * **更改发送到作者**：作者将收到待处理提取请求的通知。
-* **准备合并**：等待我们的拉取请求审核工作组进行审核。
+* **准备合并**：准备好由我们的提取请求审核团队审核。
